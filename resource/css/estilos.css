@@ -1,0 +1,50 @@
+header{
+	background-color: rgb(118, 250, 118);
+}
+
+.titulo{
+	color: rgb(253, 253, 253);
+	float: left;
+	margin-right: 7%;
+	margin-top:5%;
+	font-family: cursive;  
+	font-size: 70px;
+	margin-left: 10%;
+}
+
+ul{
+	list-style-type: none;
+	float: left;
+	margin-right: 5%;
+	
+}
+
+section{
+	background-color: rgb(118, 250, 118);
+}
+
+.leyenda{
+	color: rgb(253, 253, 253);
+	
+	font-family: cursive;  
+	font-size: 20px;
+	
+}
+
+.logoUD{
+	margin-top:3%;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
